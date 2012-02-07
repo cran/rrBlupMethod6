@@ -1,6 +1,8 @@
-497acb5d9ffd9bfd9b4c849254168f54 *DESCRIPTION
+3f8d2af589f3f33c9a266d46b5dadd4c *DESCRIPTION
 012592abf4b40a8d741b299df2ded05a *NAMESPACE
 d40c355e17e50126ff607b5a7e136bb7 *R/rrBlupM6.R
+b4a8255342aacd2640bcb20804b2a575 *R/rrBlupRotation.R
 55fddbf416d7aa72d54e1d3a7e9d29cd *inst/CITATION
-be6166ded1ca927b2e28a28d1fe92813 *man/rrBlupM6.Rd
-914528732266f7b8c3f4442ef2821385 *man/rrBlupMethod6.Rd
+fba48b3cc288bbc5f59b71de8bafa862 *man/rrBlupM6.Rd
+03a9927dd8ec3fabc49275df67a1a9cc *man/rrBlupMethod6.Rd
+f5066ec321e3f4aa36ca039cb3e3db25 *man/rrBlupRotation.Rd

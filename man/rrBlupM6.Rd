@@ -51,7 +51,7 @@ Torben Schulz-Streeck, Boubacar Estaghvirou, Frank Technow
 
 \examples{
 
-## simulate a small data set (250 observations, 300 marker)
+## simulate a small data set (250 observations, 300 markers)
 set.seed(3421475)
 N <- 250
 M <- 300
