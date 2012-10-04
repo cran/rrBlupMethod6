@@ -15,8 +15,8 @@
 \tabular{ll}{
 Package: \tab rrBlupMethod6\cr
 Type: \tab Package\cr
-Version: \tab 1.2\cr
-Date: \tab 2012-02-07\cr
+Version: \tab 1.3\cr
+Date: \tab 2012-10-04\cr
 License: \tab GNU General Public License Version 2, June 1991\cr
 LazyLoad: \tab yes\cr
 }
@@ -73,8 +73,8 @@ starting point for our implementation.}
 }
 
 \references{
-  Piepho et al. (2011): Efficient computation of ridge-regression BLUP in
-  genomic selection in plant breeding (submitted to Crop Science)
+  Piepho et al. (2012): Efficient computation of ridge-regression BLUP in
+  genomic selection in plant breeding. Crop Science 52 (3), 1093-1104
   
   Kang et al. (2008): Efficient control of population structure in model
   organism association mapping. Genetics 178:1709-1723
